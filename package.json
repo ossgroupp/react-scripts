@@ -1,0 +1,13 @@
+{
+  "name": "@osspim/react-scripts",
+  "version": "2.5.0",
+  "license": "MIT",
+  "dependencies": {
+    "@osspim/cli-utils": "^1.0.2",
+    "chalk": "^2.4.2",
+    "fs-extra": "^8.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+}
